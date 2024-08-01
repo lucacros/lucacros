@@ -1,3 +1,5 @@
+ Looking for a 4/6 month engineer end-of-study internship in artificial intelligence research. 
+
 - 👋 Hi, I'm @lucacros
 - 👀 As a musician, I'm interested in how music and AI can work together to enhance creativity.
 - 🌱 I'm currently studying Signal and AI and AI for Robotics with a double masters in France (ENSEA / CY Research). 
